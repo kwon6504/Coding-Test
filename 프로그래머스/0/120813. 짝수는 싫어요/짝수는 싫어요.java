@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
 class Solution {
-	int n = 10;
     public ArrayList<Integer> solution(int n) {
         ArrayList<Integer> answer = new ArrayList<>();
         for(int i = 1; i<=n; i++) {
